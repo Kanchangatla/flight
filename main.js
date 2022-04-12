@@ -1,5 +1,4 @@
-
-  //Code to pick the trip type fight:
+//Code to pick the trip type fight:
 //1. returns the chosen type or message if none is chosen DONE
 
 function tripType() {         
@@ -536,3 +535,4 @@ document.getElementById("error5").innerHTML = "";
 return postcode;
 }
 }
+  
